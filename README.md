@@ -1,4 +1,4 @@
-# Análise de personalidade do cliente
+# Análise de perfil do cliente
 ![img1](imgs/img1.png)
 
 # Sobre o projeto
