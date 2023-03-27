@@ -1,9 +1,25 @@
 # Análise de perfil do cliente
-![img1](imgs/img1.png)
+
+<div align="center">
+
+![img1](imgs/img1.jpg)
+
+</div>
 
 # Sobre o projeto
 
 Foi criado um problema de negócio fictício utilizando dados públicos do [Kaggle](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis?select=marketing_campaign.csv).
+
+
+# Ferramentas e métodos
+
+- Python
+- Principais frameworks/bibliotecas: Pandas, Matplotlib, Seaborn e Sci-kit learn
+- Jupyter Notebook (projeto) e VSCode (README)
+- Git e GitHub
+- Análise exploratória de dados (EDA) e features engineering 
+- Método **Elbow**
+- Algoritmo de machine learning **Kmeans**.
 
 
 # Problema de negócio
@@ -79,17 +95,6 @@ Os clientes costumam gastar pouco, possuem um ticket médio maior apenas que os 
 ## Considerações
 
 Com base nessas análises, é possível auxiliar a equipe de marketing na tomada de decisão.
-
-
-# Ferramentas e métodos
-
-- Python
-- Principais frameworks/bibliotecas: Pandas, Matplotlib, Seaborn e Sci-kit learn
-- Jupyter Notebook (projeto) e VSCode (README)
-- Git e GitHub
-- Análise exploratória de dados (EDA) e features engineering 
-- Método de **Elbow**
-- Algoritmo de machine learning **Kmeans**.
 
 
 Clique [aqui](https://github.com/deborabmfreitas/projeto-clientes-clusterizacao/blob/main/clustering-project.ipynb) para acompanhar o projeto em mais detalhes.
