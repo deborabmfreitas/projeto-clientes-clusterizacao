@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![img1](imgs/img1.jpg)
+<img src="imgs/clustering.jpg" width="500" alt="img1">
 
 </div>
 
